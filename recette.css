@@ -147,8 +147,8 @@ table.prepa tr{
 @media only screen and (max-width: 768px){
     div.contenu{
         width: auto;
-        margin :0px;
-        padding:0px;
+        margin :5px;
+        padding:5px;
     }
     h1{
         text-align: center;
@@ -165,6 +165,19 @@ table.prepa tr{
         vertical-align: top;
         overflow: visible;
     }
+    table.info{
+        height: 50px;
+        font-size: 12px;
+    }
+    .column1{
+        margin-left:20px;
+    }
+    .column2{
+        margin-right: 20px;
+    }
+    .colonne{
+        width:90%;
+    }
+
 }
 
-/* ul et li , transformer en t */
