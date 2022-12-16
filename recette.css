@@ -144,7 +144,7 @@ table.prepa td.prepa_td{
 table.prepa tr{
     height: 40px;
 }
-@media only screen and (max-width: 768px){
+@media only screen and (max-width: 700px){
     div.contenu{
         width: auto;
         margin :5px;
